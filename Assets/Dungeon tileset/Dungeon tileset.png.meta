@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -3786,8 +3786,8 @@ TextureImporter:
       Dungeon tileset_80: -1481036121
       Dungeon tileset_19: 1829634573
       Dungeon tileset_100: 1673878169
-      Dungeon tileset_104: -849593157
       Dungeon tileset_154: -1621205428
+      Dungeon tileset_104: -849593157
       Dungeon tileset_144: 425445194
       Dungeon tileset_46: -811623307
       Dungeon tileset_31: -1243709053
@@ -3864,8 +3864,8 @@ TextureImporter:
       Dungeon tileset_121: 680991118
       Dungeon tileset_92: -1222366696
       Dungeon tileset_11: 1057237875
-      Dungeon tileset_93: -361595686
       Dungeon tileset_168: -1383206335
+      Dungeon tileset_93: -361595686
       Dungeon tileset_156: -1089908912
       Dungeon tileset_113: -120367637
       Dungeon tileset_149: -1933714849
